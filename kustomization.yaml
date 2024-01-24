@@ -1,4 +1,4 @@
 namespace: cron
 resources:
   - namespace.yaml
-  - cron-deployment.yaml
+  - cronjob.yaml
